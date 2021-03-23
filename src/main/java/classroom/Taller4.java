@@ -29,3 +29,4 @@ public class Taller4 {
         System.out.println(new Persona("Alejandro").cedula);
     }
 }
+
